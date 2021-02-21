@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "38798199756",
+    "project_id": "adminchurch-89fb2",
+    "storage_bucket": "adminchurch-89fb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38798199756:android:2903746672e40f14932b69",
+        "android_client_info": {
+          "package_name": "com.optimalsystems.AdminChurch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38798199756-npe9jm6jg2m29pkpcv60qsqm595q8ni8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.optimalsystems.AdminChurch",
+            "certificate_hash": "f6062d5347a0d9502da789cec66797efc2630d12"
+          }
+        },
+        {
+          "client_id": "38798199756-nmprm9megirmo33psl2a1ri78odjqsqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcFZyo9rn96ltfyvD_mGmvqExbFsf4elQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38798199756-nmprm9megirmo33psl2a1ri78odjqsqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
